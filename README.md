@@ -1,4 +1,5 @@
 <h1>📊 Fresnel Integrals Visualization using Numerical Methods</h1>
+<img width="1143" height="599" alt="Captura_de_tela_20260317_212925" src="https://github.com/user-attachments/assets/6ebe9d42-be61-4fe1-a7ba-7a16c28db991" />
 
 This project implements the visualization of Fresnel Integrals using classical numerical methods:
 
